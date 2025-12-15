@@ -1,4 +1,3 @@
-print("Bot is starting...")
 import telebot
 import google.generativeai as genai
 import os
